@@ -1,5 +1,5 @@
 # sysinternals
-my nixos stuff
+My nixos stuff. This is mainly to make my config truly reproducible and to have somewhere to roll back to incase I fuck something up too badly.
 
 # IMPORTANT
 
